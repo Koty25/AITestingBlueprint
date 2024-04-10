@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/AIDemo/Content/Characters/AI/BP_NPC.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/Tasks/BTTask_MoveRandomLocation.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/BT_NPC.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/AI_NPC.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/Tasks/BTTask_ClearBlackboardValue.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/Tasks/BTDecorator_CheckScale.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/AIObject_PatrolPathPoint.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/M_Debug.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/AIBehaviour.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/D4/NTCJQS5TTFB1CNZ3VTYWKI.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TS/CBT5XZ8J5K4DVTWM08DQT2.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZB/2EL9G5N9G63TY21W9KRZX1.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1J/1UEMF32ZDL4F3V841PMY4U.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JZ/HHDZYG4IAY09Q7D37XUM9E.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/3F/EOT3N310X351WZQE1UV041.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/KL/DPCWGH6G50ONMXQCNL5KWV.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7S/0TCQS57C1D79XOH7GW69F9.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/Tasks/BTTask_Patrol.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/E_PatroPathOutcome.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/BB_NPC.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/EQS/EQS_Demo.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/M0/YTRS64O4KB6ELDNJ1PZ8ZO.uasset",
+				"C:/Unreal/AIDemo/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Unreal/AIDemo/Content/Characters/AI/EQS/EQSTester.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/EQS/Context_Player.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/EQS/EQS_Demo2.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Unreal/AIDemo/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6U/DW4JPCTG8P8XJ2W4SXJTXL.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/NPC.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/BTDecorator_CheckScale.uasset",
+				"C:/Unreal/AIDemo/Content/Characters/AI/AI.uasset"
+			]
+		}
+	]
+}
